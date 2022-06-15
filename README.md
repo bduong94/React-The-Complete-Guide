@@ -1,4 +1,4 @@
-# React-The-Complete-Guide
+# Javascript-Refresher
 
 ## Description
 
